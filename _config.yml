@@ -1,3 +1,6 @@
+exclude:
+  - "/vendor/"
+
 title: Andani Putri Blog
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 url: "https://github.com/andaniputri/andaniputri.github.io" 
