@@ -1,17 +1,8 @@
-# External plugins
-# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-plugins:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-  - jekyll-paginate-v2
-
-exclude:
-  - "/vendor/"
-
-# Site settings
 title: Andani Putri Blog
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
+url: "https://github.com/andaniputri/andaniputri.github.io" 
+cover: "/assets/header_image.jpg"
+email: andaniputri2001@gmail.com
 name: Andani Putri
 description: >
   A simple yet classy theme for your Jekyll website or blog.
